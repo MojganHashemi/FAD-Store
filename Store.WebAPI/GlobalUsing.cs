@@ -1,0 +1,10 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using Store.Domain.Model.Contracts.Category;
+global using Store.Domain.Model.Contracts.Product;
+global using Store.Domain.Service.Category;
+global using Store.Domain.Service.Product;
+global using Store.Domain.Service.Contract.Category;
+global using Store.Domain.Service.Contract.Product;
+global using Store.Infrastructure.Data.EFCore.DbContext;
+global using Store.Infrastructure.Data.EFCore.Repository.Category;
+global using Store.Infrastructure.Data.EFCore.Repository.Product;
